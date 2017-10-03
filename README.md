@@ -4,3 +4,6 @@
 u need this shit or it wont run for the retards:
 https://github.com/Rapptz/discord.py
 https://www.python.org/download/releases/3.0/
+
+credits to trent
+https://twitter.com/ilov3jade
